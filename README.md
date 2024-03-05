@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+LIVE _DEPLOYMENT OF PROJECT:(CLICK ON THE GIVEN LINK)
+
+LIVE -> Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
